@@ -3,7 +3,7 @@
 # Deliverable 1: Linear Regression to Predict MPG
 ## Linear Regression to Predict MPG
 
-Figure-1:![Linear Regression](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/linear.png)
+Figure-1:![Linear Regression](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/model.png)
 
 By analizing the linera regression results in the Figure 1, following questions are answered:
 
