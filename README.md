@@ -3,8 +3,13 @@
 # Deliverable 1: Linear Regression to Predict MPG
 ## Linear Regression to Predict MPG
 
-![Linear Regression](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/linear.png)
+Figure-1:![Linear Regression](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/linear.png)
+
+By analizing the linera regression results in the Figure 1, following questions are answered:
+
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+Since p value is very low(less than 0.05), so we can reject all the NULL hypothesis for all of the variables . This implies that none of the variables are random.
+
 * Is the slope of the linear model considered to be zero? Why or why not?
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
