@@ -36,6 +36,17 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 # Deliverable 3: T-Test on Suspension Coils
 ## Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+* LOT # 1: t-test
+
+![Lot1](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/lot1.png)
+
+* LOT # 2: t-test
+
+![Lot2](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/lot2.png)
+* LOT # 3: t-test
+![Lot3](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/lot3.png)
+
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Study Design: MechaCar vs Competition
