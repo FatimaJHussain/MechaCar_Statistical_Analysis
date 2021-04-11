@@ -7,7 +7,7 @@ Figure-1:Regression Results
 
 ![Linear Regression](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/model.png)
 
-By analizing the linera regression results in the Figure 1, following questions are answered:
+By analizing the linear regression results in the Figure 1, following questions are answered:
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -32,7 +32,7 @@ Figure-3: Lot Summary
 
 ## Does the current manufacturing data meet the design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. By inspecting Figure 3, we can see that total variance (for all the lots) is 62, that is below 100. Therefore, it qualifies as a whole when collectively variance is considered for all the lots. However, individual variance of the suspension coils for Lot 3 is 170 and is greater than 100 pounds per square inch. Individual variances of the suspension coils for Lot# 1 is 0.97 and Lot# 2 is 7.46, which is under the allowed design limit.
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. By inspecting Figure 3, we can see that total variance (for all the lots) is 62, that is below 100. Therefore, it qualifies as a whole when collective variance is considered for all the lots. However, individual variance of the suspension coils for Lot 3 is 170 and is greater than 100 pounds per square inch. Individual variances of the suspension coils for Lot# 1 is 0.97 and Lot# 2 is 7.46, which is under the allowed design limit.
 
 # Deliverable 3: T-Test on Suspension Coils
 ## Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
@@ -58,17 +58,17 @@ P-value is 0.04168, and it is less than 0.05, therefore we cannot reject the NUL
 
 * What metric or metrics are you going to test?
 
-Cost and Fuel Efficiency is compared across various car manufacturers, and select the best car.
+Cost and Fuel Efficiency is compared across various car manufacturers, and the best car manufacturer is selected.
 * What is the null hypothesis or alternative hypothesis?
 
-NULL Hypothesis: MechaCar is not cost effecient as compared to others.
-Alternative Hypothesis: MechaCar is extremely cost effecient.
+NULL Hypothesis: MechaCar is not cost efficient  as compared to others.
+Alternative Hypothesis: MechaCar is extremely cost efficient.
 
 * What statistical test would you use to test the hypothesis? And why?
 
-We should ANOVA, It is used to find the statistical difference between the distribution means from multiple samples and for our case it will be from various car manufacturers.
+We should ANOVA, It is used to find the statistical difference between the distribution means from multiple samples and for our case it will be statistical data from various car manufacturers.
 
 * What data is needed to run the statistical test?
 
-We need datasets from other car manufacturers, for performing statistical tests.
+We need datasets with statistical data from other car manufacturers, for performing statistical tests.
 
