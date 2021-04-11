@@ -41,12 +41,17 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![Lot1](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/lot1.png)
 
+P-value is 1 and it is greater than 0.05, therefore we can reject the NULL hypothesis. 
+
 * LOT # 2: t-test
 
 ![Lot2](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/lot2.png)
+
+P-value is 0.6072 and it is greater than 0.05, therefore we can reject the NULL hypothesis. 
 * LOT # 3: t-test
 ![Lot3](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/lot3.png)
 
+P-value is 0.04168, and it is less than 0.05, therefore we cannot reject the NULL hypothesis. 
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Study Design: MechaCar vs Competition
