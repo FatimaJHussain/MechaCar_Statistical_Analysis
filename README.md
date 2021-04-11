@@ -57,7 +57,18 @@ P-value is 0.04168, and it is less than 0.05, therefore we cannot reject the NUL
 ## Study Design: MechaCar vs Competition
 
 * What metric or metrics are you going to test?
+
+Cost and Fuel Efficiency is compared across various car manufacturers, and select the best car.
 * What is the null hypothesis or alternative hypothesis?
+
+NULL Hypothesis: MechaCar is not cost effecient as compared to others.
+Alternative Hypothesis: MechaCar is extremely cost effecient.
+
 * What statistical test would you use to test the hypothesis? And why?
+
+We should ANOVA, It is used to find the statistical difference between the distribution means from multiple samples and for our case it will be from various car manufacturers.
+
 * What data is needed to run the statistical test?
+
+We need datasets from other car manufacturers, for performing statistical tests.
 
