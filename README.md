@@ -3,7 +3,9 @@
 # Deliverable 1: Linear Regression to Predict MPG
 ## Linear Regression to Predict MPG
 
-Figure-1:![Linear Regression](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/model.png)
+Figure-1:Regression Results 
+
+![Linear Regression](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/model.png)
 
 By analizing the linera regression results in the Figure 1, following questions are answered:
 
@@ -28,7 +30,9 @@ Figure-3: Lot Summary
 
 ![Lot Summary](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/LotSummary.png)
 
-## The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+## Does the current manufacturing data meet the design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. By inspecting Figure 3, we can see that total variance (for all the lots) is 62, that is below 100. Therefore, it qualifies as a whole when collectively variance is considered for all the lots. However, if we but individually it not
 
 # Deliverable 3: T-Test on Suspension Coils
 ## Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
