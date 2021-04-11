@@ -19,7 +19,9 @@ By inspecting intercepts, we can see that slopes are not zero. This is because, 
 
 This model predicts mpg of MechaCar prototypes effectively as Multiple R-squared value is above 71 % 
 # Deliverable 2: Summary Statistics on Suspension Coils
+Figure-2:![Suspension  Coils](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/summary.png)
 
+Figure-3:![Lot Summary](https://github.com/FatimaJHussain/MechaCar_Statistical_Analysis/blob/main/Lotsummary.png)
 ## The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 # Deliverable 3: T-Test on Suspension Coils
